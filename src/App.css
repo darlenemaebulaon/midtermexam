@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.h1 {
+  border: 5px solid rgb(8, 36, 8);
+}
+
+.h2{
+  border: 5px solid rgb(8, 36, 8);
+}
+
+.buttons {
+  border: 5px solid rgb(8, 36, 8);
+  background-color: rgba(49, 88, 43, 0.459);
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+button {
+  flex: 1 25%;
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 16px;
+  background-color: bisque;
+}
